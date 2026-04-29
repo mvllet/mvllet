@@ -6,6 +6,9 @@ I'm Mullet (Moo·lett), a 17-year-old student and developer from Germany. I focu
 
 - Hash Manager
 - [HH Transit](https://github.com/mvllet/hh-transit)
+- [HH Transit CLI](https://github.com/mvllet/hh-transit-cli)
+
+---
 
 #### Contact
 
